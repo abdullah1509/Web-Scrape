@@ -1,3 +1,5 @@
+# This program goes to the given YouTube chanel and transcript given number of videos and write its subtitle in a text file
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By 
 from selenium.webdriver.support.ui import WebDriverWait
